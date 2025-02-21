@@ -1,4 +1,12 @@
 # LinkedIn Learning
+<hr>
+<hr>
+
+# Applied Machine Learning -- Ensemble Learning
+### [Applied Machine Learning -- Ensemble Learning](https://github.com/ADVAIT135/Machine_Learning_AI/blob/c8b354b537a181c96a68df86788bbe4be35726dd/Applied%20Machine%20Learning%20Ensemble%20Learning.ipynb)
+<hr>
+<hr>
+
 # Master Python For Data Science Path: -
 ## 1. Python Statistics Essential Training
 ### [A. Python Statistics Essential Training -- 1](https://github.com/ADVAIT135/Machine_Learning_AI/blob/2e29c9205d5c91e4f11fec84cae5b5d538d31f40/Python%20Statistics%20Essential%20Training_Part%201.ipynb)
